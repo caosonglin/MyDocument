@@ -1,0 +1,5 @@
+1，git clone HTTPS clone URL
+2，进入托管项目根目录
+3，git add .
+4，git commit -m "changes log"
+5，git push -u origin master
