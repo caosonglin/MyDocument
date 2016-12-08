@@ -8,3 +8,10 @@ http://os.51cto.com/art/201610/518369.htm
 https://www.reviewboard.org/
 http://os.51cto.com/art/201610/518369.htm
 https://my.oschina.net/hardbone/blog/798552
+http://www.ezlippi.com/blog/2014/12/c-open-project.html
+https://libcinder.org/
+http://dlib.net/
+http://loki-lib.sourceforge.net/
+http://www.almostinfinite.com/memtrack.html
+http://www.gritengine.com/
+http://www.freenos.org/doxygen/index-2.html
