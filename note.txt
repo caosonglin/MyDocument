@@ -16,3 +16,5 @@ http://www.almostinfinite.com/memtrack.html
 http://www.gritengine.com/
 http://www.freenos.org/doxygen/index-2.html
 https://www.oschina.net/project/lang/21/c
+http://zh.lucida.me/blog/on-learning-algorithms/
+https://leetcode.com/problemset/algorithms/
